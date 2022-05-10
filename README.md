@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aleksandar-mil
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on ==Macin projekat==!!
+- 💞️ I’m looking to collaborate on ***Macin projekat***!!
 - 📫 How to reach me - how you want!
 
 <!---
